@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1035282470801",
+    "firebase_url": "https://owp-lv5-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "owp-lv5",
+    "storage_bucket": "owp-lv5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035282470801:android:9426ce6988e447d041ac30",
+        "android_client_info": {
+          "package_name": "com.example.firebasetestone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCzMuWesnFGcHAdxM4oS-64YzjAvMPOs0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
